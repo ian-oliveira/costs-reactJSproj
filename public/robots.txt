@@ -1,0 +1,13 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+Espaçar a nav bar
+Distanciar o Footer
+
+Algo relacionado ao container
+
+<LinkButton to = "/newproject" text="Criar Projeto"/> Anula minha página
+
+<SubmitButton text = {btnText}/> Anula tb
+

@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "Desenvolvimento do novo site",
+      "budget": "3000",
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "cost": 300,
+      "services": [
+        {
+          "name": "Contratar um DevFront",
+          "cost": "300",
+          "description": "Novo funcionário",
+          "id": "a6ad1208-f766-4c8a-a306-922976dc7801"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infraestrutura"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
